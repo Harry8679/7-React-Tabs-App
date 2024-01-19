@@ -12,7 +12,7 @@ const Tabs = () => {
       <div className="container">
         <div className="tabs-heading --text-center">
             <h2 className='--line'>More About Us</h2>
-            <p className='--text-sm'>Click the tab buttons to learn</p>
+            <p className='--text-sm'>Click the tab buttons to learn about us</p>
         </div>
 
         <div className="tabs --flex-start --bg-light">
